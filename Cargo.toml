@@ -1,0 +1,8 @@
+[package]
+name = "stories-on-board"
+version = "0.1.0"
+authors = ["A57 <product@atlantic57.com>"]
+
+[dependencies]
+rocket = "0.3.6"
+rocket_codegen = "0.3.6"
